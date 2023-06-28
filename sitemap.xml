@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://howchen217.github.io/liondancerDocumentation/artist/</loc>
+         <lastmod>2023-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://howchen217.github.io/liondancerDocumentation/codeofconduct/</loc>
+         <lastmod>2023-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://howchen217.github.io/liondancerDocumentation/designer/</loc>
+         <lastmod>2023-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://howchen217.github.io/liondancerDocumentation/home/</loc>
+         <lastmod>2023-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://howchen217.github.io/liondancerDocumentation/producer/</loc>
+         <lastmod>2023-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://howchen217.github.io/liondancerDocumentation/programmer/</loc>
+         <lastmod>2023-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
